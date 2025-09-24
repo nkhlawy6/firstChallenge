@@ -10,7 +10,7 @@ export default function Header() {
     alignItems:'center',
     fontSize:'30px',
     color:'white',
-    boxShadow:'15px,15px,13px,black'
+    boxShadow: '0px 12px 2px 1px rgb(0 0 0 / 0.2)'
    }}>
     <h1>Welcome, Elnakhlawhy Web</h1>
    </header>
