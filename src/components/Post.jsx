@@ -10,7 +10,7 @@ export default function Post({postTitle,userName,children}){
         }
         }>
             <h1>{postTitle}</h1>
-            <span>{userName}</span>
+            <span style={{fontSize:'15px',padding:'10px',display:'inline-block'}}>{userName}</span>
             <hr />
            {children}
      </div>
